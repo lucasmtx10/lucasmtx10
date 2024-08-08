@@ -7,6 +7,6 @@ Meu nome é Lucas Messias da Siva
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
-Lucas.messias.silva02@escola.pr.gov.br
+Lucas.messias.silva02gmail.com
 
 @lucas_xtwl
