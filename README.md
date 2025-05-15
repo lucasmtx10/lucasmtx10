@@ -72,3 +72,74 @@ footer p {
     margin: 0;
     font-size: 14px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.....
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta name="viewport" 
+     
+    content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css"> 
+    <title>Flashcard</title>
+</head>
+
+<body>
+    <main>
+        <sction id="container">
+            <article clas="CARTAO">
+                <div class="CARTAO__conteudo">
+                    <h3>Esportes</h3>
+                    <div class="CARTAO__conteudo__pergunta">
+                        Quantos Mundiais o corinthians tem?
+                    </div>
+                    <div class="CARTAO__conteudo__resposta">
+                        O corinthians tem 2 mundiais conquistados no ano de 2000 e 2012 foi campeão mundial.
+                    </div>
+                </div>
+            </article>
+            <article clas="CARTAO">
+                <div class="CARTAO__conteudo">
+                    <h3>Esportes</h3>
+                    <div class="CARTAO__conteudo__pergunta">
+                        Qual é a frase do Corinthians?
+                    </div>
+                    <div class="CARTAO__conteudo__resposta">
+                        A frase mais popular do Corinthians é "Todo Poderoso Timão".
+                    </div>
+                </div>
+            </article>
+        </sction>
+
+    </main>
+    <footer>
+        <P>Projeto desenvolvido pela Alura, sem fins lucrativos</P>
+    </footer>
+</body>
+
+</html>
+
+
+
+style.css
+
+body {
+    background-color: blue;
+}
